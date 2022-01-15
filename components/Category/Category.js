@@ -54,7 +54,7 @@ export default function Category() {
                         <div className="col-md-4 itemBox website">
                             <div className="card">
                                 <div className={style.imageContainer}>
-                                    <Image src="/image/gamespace.jpg" alt="gamespace cover" layout='fill' height={"70"} width={"100"} layout='responsive' />
+                                    <Image src="/image/gamespace.jpg" alt="gamespace cover" height={"70"} width={"100"} layout='responsive' />
                                 </div>
                                 <div
                                     className="card-body d-flex justify-content-between align-items-baseline"
@@ -74,7 +74,7 @@ export default function Category() {
                         <div className="col-md-4 itemBox website">
                             <div className="card">
                                 <div className={style.imageContainer}>
-                                    <Image src="/image/vacanza.jpg" alt="vacanza cover" layout='fill' height={"70"} width={"100"} layout='responsive' />
+                                    <Image src="/image/vacanza.jpg" alt="vacanza cover" height={"70"} width={"100"} layout='responsive' />
                                 </div>
                                 <div
                                     className="card-body d-flex justify-content-between align-items-baseline"
