@@ -1,0 +1,43 @@
+
+.imgAvatar{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    text-align: center;
+  }
+
+.textHero{
+    color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textBio{
+    display: block;
+    color: white;
+    margin-top: 20px;
+}
+
+.textBio p{
+    text-align: center;
+    font-size: 1.15em;
+}
+
+.imgSosmed{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.textHero{
+    color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
