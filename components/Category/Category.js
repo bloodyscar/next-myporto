@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import style from './Category.module.css';
-import Script from 'next/script'
 
 export default function Category() {
     return (
@@ -189,14 +188,6 @@ export default function Category() {
             </div>
 
 
-            <Script type="text/javascript" strategy='lazyOnload'>
-                {
-                    `
-             var listCategory = document.querySelectorAll(".listCategory");
-             console.log(listCategory);
-            `
-                }
-            </Script>
 
         </>
     )

@@ -11,7 +11,7 @@ export default function Content() {
                         data-aos="zoom-in"
                         data-aos-duration="1000"
                     >
-                        <div class="img-fluid">
+                        <div className="img-fluid">
                             <Image src="/image/about.jpg" width={300} height={250} objectFit='cover' />
 
                         </div>
