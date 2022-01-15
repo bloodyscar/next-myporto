@@ -23,19 +23,16 @@ export default function HeroContent() {
                     <div className={styles.imgSosmed}>
                         <a
                             className="img-fluid"
-                            target="_blank"
                             href="https://www.github.com/bloodyscar"
                         ><img width="80%" src="image/github.png"
                             /></a>
                         <a
                             className="img-fluid mx-3"
-                            target="_blank"
                             href="https://dribbble.com/adithernowo"
                         ><img width="80%" src="image/drible.png"
                             /></a>
                         <a
                             className="img-fluid"
-                            target="_blank"
                             href="https://instagram.com/adithernowos"
                         ><img width="80%" src="image/ig.png"
                             /></a>
