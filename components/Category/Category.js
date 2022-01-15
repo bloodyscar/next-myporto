@@ -140,7 +140,6 @@ export default function Category() {
             <div
                 className="modal fade"
                 id="exampleModalTraveland"
-                tabindex="-1"
                 aria-labelledby="exampleModalLabel"
                 aria-hidden="true"
             >
