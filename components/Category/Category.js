@@ -147,18 +147,18 @@ export default function Category() {
                 </div>
             </div>
             <div
-                class="modal fade"
+                className="modal fade"
                 id="exampleModalTraveland"
                 tabindex="-1"
                 aria-labelledby="exampleModalLabel"
                 aria-hidden="true"
             >
-                <div class="modal-dialog modal-xl modal-dialog-scrollable">
-                    <div class="modal-content">
-                        <div class="modal-body">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-6">
+                <div className="modal-dialog modal-xl modal-dialog-scrollable">
+                    <div className="modal-content">
+                        <div className="modal-body">
+                            <div className="container">
+                                <div className="row">
+                                    <div className="col-md-6">
                                         <h5>Traveland</h5>
                                         <p style={{ textIndent: 40 }}>
                                             Traveland adalah sebuah website pemesanan tiket liburan
@@ -172,13 +172,13 @@ export default function Category() {
                                             mengkonfirmasi pembayaran.
                                         </p>
                                         <p>Link Github : <a href="https://bloodyscar.github.io/traveland-web/" target="_blank" style={{ color: "blue" }}>Traveland</a></p>
-                                        <div class="d-flex">
-                                            <p class="languageList">PHP</p>
-                                            <p class="languageList">Laravel</p>
-                                            <p class="languageList">Bootstrap 4</p>
+                                        <div className="d-flex">
+                                            <p className="languageList">PHP</p>
+                                            <p className="languageList">Laravel</p>
+                                            <p className="languageList">Bootstrap 4</p>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div className="col-md-6">
                                         <div>
                                             <Image src="/image/traveland.jpg" layout='responsive' width={400} height={300} />
                                         </div>
@@ -186,10 +186,10 @@ export default function Category() {
                                 </div>
                             </div>
                         </div>
-                        <div class="modal-footer">
+                        <div className="modal-footer">
                             <button
                                 type="button"
-                                class="btn btn-secondary"
+                                className="btn btn-secondary"
                                 data-bs-dismiss="modal"
                             >
                                 Close
