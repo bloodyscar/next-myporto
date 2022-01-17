@@ -1,5 +1,6 @@
 module.exports = {
   reactStrictMode: true,
+  images: {
+    domains: ['camo.githubusercontent.com'],
+  },
 }
-const withImages = require('next-images')
-module.exports = withImages()

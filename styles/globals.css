@@ -66,8 +66,14 @@ div.hero-image:after{
 .languageList{
   border-style: solid;
   border-width: thin;
-  padding: 8px 20px;
+  padding: 8px 10px;
   border-radius: 10px;
   margin-left: 5px;
   margin-right: 5px;
+  font-size: 12px;
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
 }
