@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
 import Navbar from '../components/Navbar/Navbar'
 import HeroContent from '../components/HeroContent/HeroContent'
 import Content from '../components/Content/Content'
@@ -12,9 +11,13 @@ export default function Home() {
       <Head>
         <title>Adit Hernowo</title>
         <meta name="description" content="Website Adit Hernowo" />
+        <meta name="keywords" content="Adit Hernowo" />
+        <meta name="robots" content="index, nofollow" />
+        <meta name="author" content="Adit Hernowo" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
       </Head>
+
 
       <div className='hero-image'>
         <Navbar />
