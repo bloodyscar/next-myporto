@@ -24,17 +24,17 @@ export default function HeroContent() {
                         <a
                             className="img-fluid"
                             href="https://www.github.com/bloodyscar"
-                        ><img width="80%" src="image/github.png"
+                        ><img width="80%" height="100%" src="image/github.png"
                             /></a>
                         <a
                             className="img-fluid mx-3"
                             href="https://dribbble.com/adithernowo"
-                        ><img width="80%" src="image/drible.png"
+                        ><img width="80%" height="100%" src="image/drible.png"
                             /></a>
                         <a
                             className="img-fluid"
                             href="https://instagram.com/adithernowos"
-                        ><img width="80%" src="image/ig.png"
+                        ><img width="80%" height="100%" src="image/ig.png"
                             /></a>
                     </div>
                     <div className="mt-4">
@@ -43,7 +43,7 @@ export default function HeroContent() {
                         </div>
                         <div className="d-flex justify-content-center chevron">
                             <a href="#about"
-                            ><img className="" src="image/chevron.svg" width="70px"
+                            ><img src="image/chevron.svg" width="70px" height="100%"
                                 /></a>
                         </div>
                     </div>
