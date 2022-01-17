@@ -149,7 +149,6 @@ export default function Category() {
             <div
                 className="modal fade"
                 id="exampleModalTraveland"
-                tabindex="-1"
                 aria-labelledby="exampleModalLabel"
                 aria-hidden="true"
             >
@@ -171,7 +170,7 @@ export default function Category() {
                                             pemesanan tersebut akan dicek oleh admin untuk
                                             mengkonfirmasi pembayaran.
                                         </p>
-                                        <p>Link Github : <a href="https://bloodyscar.github.io/traveland-web/" target="_blank" style={{ color: "blue" }}>Traveland</a></p>
+                                        <p>Link Github : <a href="https://bloodyscar.github.io/traveland-web/" target="_blank" rel="noopener noreferrer" style={{ color: "blue" }}>Traveland</a></p>
                                         <div className="d-flex">
                                             <p className="languageList">PHP</p>
                                             <p className="languageList">Laravel</p>
@@ -204,7 +203,6 @@ export default function Category() {
             <div
                 className="modal fade"
                 id="exampleModalGamespace"
-                tabindex="-1"
                 aria-labelledby="exampleModalLabel"
                 aria-hidden="true"
             >
@@ -222,7 +220,7 @@ export default function Category() {
                                             Seperti Rajagame hanya saja lebih simple, website ini hanya
                                             tertera UI saja.
                                         </p>
-                                        <p>Link Github : <a href="https://gamingspace.netlify.app/" target="_blank" style={{ color: "blue" }}>Gamespace</a></p>
+                                        <p>Link Github : <a href="https://gamingspace.netlify.app/" target="_blank" rel="noopener noreferrer" style={{ color: "blue" }}>Gamespace</a></p>
                                         <div className="d-flex">
                                             <p className="languageList">Javascript</p>
                                             <p className="languageList">Tailwind CSS</p>
@@ -252,7 +250,6 @@ export default function Category() {
             <div
                 className="modal fade"
                 id="exampleModalVacanza"
-                tabindex="-1"
                 aria-labelledby="exampleModalLabel"
                 aria-hidden="true"
             >
@@ -269,7 +266,7 @@ export default function Category() {
                                             Seperti Rajagame hanya saja lebih simple, website ini hanya
                                             tertera UI saja.
                                         </p>
-                                        <p>Link Github : <a href="https://github.com/bloodyscar/vacanza" target="_blank" style={{ color: "blue" }}>Vacanza</a></p>
+                                        <p>Link Github : <a href="https://github.com/bloodyscar/vacanza" target="_blank" rel="noopener noreferrer" style={{ color: "blue" }}>Vacanza</a></p>
                                         <div className="d-flex">
                                             <p className="languageList">Javascript</p>
                                             <p className="languageList">React JS</p>
@@ -300,7 +297,6 @@ export default function Category() {
             <div
                 className="modal fade"
                 id="exampleModalShamo"
-                tabindex="-1"
                 aria-labelledby="exampleModalLabel"
                 aria-hidden="true"
             >
@@ -316,7 +312,7 @@ export default function Category() {
                                             Aplikasi ini tersedia di Kelas buildwithangga.com dibuat khusus untuk mempelajari bagaimana membuat aplikasi dengan flutter.
 
                                         </p>
-                                        <p>Link Github : <a href="https://github.com/bloodyscar/shamo-app-flutter" target="_blank" style={{ color: "blue" }}>Shamo App</a></p>
+                                        <p>Link Github : <a href="https://github.com/bloodyscar/shamo-app-flutter" target="_blank" rel="noopener noreferrer" style={{ color: "blue" }}>Shamo App</a></p>
                                         <div className="d-flex">
                                             <p className="languageList">Flutter</p>
                                             <p className="languageList">Laravel</p>
@@ -348,7 +344,6 @@ export default function Category() {
             <div
                 className="modal fade"
                 id="exampleModalMieayu"
-                tabindex="-1"
                 aria-labelledby="exampleModalLabel"
                 aria-hidden="true"
             >
@@ -367,7 +362,7 @@ export default function Category() {
                                             karena dengan aplikasi tersebut, customer dapat memilih makanan yang diinginkan secara online.
 
                                         </p>
-                                        <p>Link Github : <a href="https://github.com/bloodyscar/flutter-mie-ayu" target="_blank" style={{ color: "blue" }}>Mie Ayu App</a></p>
+                                        <p>Link Github : <a href="https://github.com/bloodyscar/flutter-mie-ayu" target="_blank" rel="noopener noreferrer" style={{ color: "blue" }}>Mie Ayu App</a></p>
                                         <div className="d-flex">
                                             <p className="languageList">Flutter</p>
                                             <p className="languageList">Laravel</p>
